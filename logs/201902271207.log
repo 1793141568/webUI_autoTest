@@ -1,0 +1,12 @@
+2019-02-27 12:07:34,594 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 12:07:34,594 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 12:07:37,169 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 12:07:45,337 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 12:07:46,482 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 12:07:46,484 - BrowserEngine - INFO - 等待10秒
+2019-02-27 12:07:46,636 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 12:07:46,752 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 12:07:46,854 - BasePage - INFO - 点击成功
+2019-02-27 12:09:24,084 - BasePage - INFO - 点击成功
+2019-02-27 12:09:24,085 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x0000021D18A20748>页面中没有找到('css selector', '.pbt input')元素
+2019-02-27 12:09:24,104 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'

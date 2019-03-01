@@ -1,0 +1,13 @@
+2019-02-28 09:24:06,301 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 09:24:06,302 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:24:09,626 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 09:24:12,684 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 09:24:13,804 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 09:24:13,805 - BrowserEngine - INFO - 等待10秒
+2019-02-28 09:24:13,937 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 09:24:14,049 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 09:24:14,144 - BasePage - INFO - 点击成功
+2019-02-28 09:24:16,651 - BasePage - INFO - 点击成功
+2019-02-28 09:24:27,194 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000001F40B8FD6A0>页面中没有找到('css selector', 'newspecialtmp')元素
+2019-02-28 09:24:27,194 - BasePage - ERROR - 悬停异常--'NoneType' object has no attribute 'move_to_element'
+2019-02-28 09:24:33,978 - BasePage - INFO - 点击成功

@@ -1,0 +1,31 @@
+2019-02-27 15:47:48,849 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 15:47:48,849 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:47:51,428 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 15:47:53,169 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 15:47:54,287 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 15:47:54,288 - BrowserEngine - INFO - 等待10秒
+2019-02-27 15:47:54,404 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 15:47:54,506 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 15:47:54,593 - BasePage - INFO - 点击成功
+2019-02-27 15:47:58,141 - BasePage - INFO - 点击成功
+2019-02-27 15:48:00,239 - BasePage - INFO - 点击成功
+2019-02-27 15:48:02,608 - BasePage - INFO - 点击成功
+2019-02-27 15:48:05,214 - BasePage - INFO - 点击成功
+2019-02-27 15:48:06,368 - BasePage - INFO - 点击成功
+2019-02-27 15:48:17,914 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000214BF9726D8>页面中没有找到('name', 'admin_password')元素
+2019-02-27 15:48:17,914 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:48:18,277 - BasePage - INFO - get_windows_img
+2019-02-27 15:48:28,793 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000214BF9726D8>页面中没有找到('name', 'submit')元素
+2019-02-27 15:48:28,793 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 15:48:28,893 - BasePage - INFO - 点击成功
+2019-02-27 15:48:41,427 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000214BF9726D8>页面中没有找到('link text', '添加新版块')元素
+2019-02-27 15:48:41,427 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 15:48:53,972 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000214BF9726D8>页面中没有找到('css selector', 'body form table tbody:nth-last-child(2) tr:nth-last-child(2) .board input')元素
+2019-02-27 15:48:53,972 - BasePage - ERROR - 清除异常--'NoneType' object has no attribute 'clear'
+2019-02-27 15:48:54,329 - BasePage - INFO - get_windows_img
+2019-02-27 15:49:04,876 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000214BF9726D8>页面中没有找到('css selector', 'body form table tbody:nth-last-child(2) tr:nth-last-child(2) .board input')元素
+2019-02-27 15:49:04,876 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:49:05,196 - BasePage - INFO - get_windows_img
+2019-02-27 15:49:05,201 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000214BF9726D8>页面中没有找到()元素
+2019-02-27 15:49:05,201 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:49:05,523 - BasePage - INFO - get_windows_img

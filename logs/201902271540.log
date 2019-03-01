@@ -1,0 +1,35 @@
+2019-02-27 15:40:20,087 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 15:40:20,087 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:40:22,596 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 15:40:25,137 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 15:40:26,256 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 15:40:26,257 - BrowserEngine - INFO - 等待10秒
+2019-02-27 15:40:56,256 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 15:40:56,257 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:40:58,761 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 15:41:00,674 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 15:41:01,818 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 15:41:01,819 - BrowserEngine - INFO - 等待10秒
+2019-02-27 15:41:01,945 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 15:41:02,046 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 15:41:02,135 - BasePage - INFO - 点击成功
+2019-02-27 15:41:05,504 - BasePage - INFO - 点击成功
+2019-02-27 15:41:07,599 - BasePage - INFO - 点击成功
+2019-02-27 15:41:09,976 - BasePage - INFO - 点击成功
+2019-02-27 15:41:12,461 - BasePage - INFO - 点击成功
+2019-02-27 15:41:13,597 - BasePage - INFO - 点击成功
+2019-02-27 15:41:14,730 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 15:41:37,732 - BasePage - INFO - 点击成功
+2019-02-27 15:41:38,002 - BasePage - INFO - 点击成功
+2019-02-27 15:41:50,537 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002AC7C9D5A90>页面中没有找到('css selector', 'div.lastboard a')元素
+2019-02-27 15:41:50,537 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 15:42:03,069 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002AC7C9D5A90>页面中没有找到('css selector', 'body form table tbody:nth-last-child(2) tr:nth-last-child(2) .board input')元素
+2019-02-27 15:42:03,069 - BasePage - ERROR - 清除异常--'NoneType' object has no attribute 'clear'
+2019-02-27 15:42:03,418 - BasePage - INFO - get_windows_img
+2019-02-27 15:42:13,951 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002AC7C9D5A90>页面中没有找到('css selector', 'body form table tbody:nth-last-child(2) tr:nth-last-child(2) .board input')元素
+2019-02-27 15:42:13,951 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:42:14,290 - BasePage - INFO - get_windows_img
+2019-02-27 15:42:14,297 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002AC7C9D5A90>页面中没有找到()元素
+2019-02-27 15:42:14,297 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:42:14,626 - BasePage - INFO - get_windows_img
+2019-02-27 15:42:14,952 - BasePage - INFO - get_windows_img

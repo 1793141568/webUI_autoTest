@@ -1,0 +1,37 @@
+2019-02-28 10:24:17,806 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 10:24:17,807 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:24:20,658 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 10:24:23,674 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 10:24:24,796 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 10:24:24,798 - BrowserEngine - INFO - 等待10秒
+2019-02-28 10:24:24,926 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 10:24:25,039 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 10:24:25,138 - BasePage - INFO - 点击成功
+2019-02-28 10:24:27,603 - BasePage - INFO - 点击成功
+2019-02-28 10:24:27,718 - BasePage - INFO - 悬停成功
+2019-02-28 10:24:27,935 - BasePage - ERROR - 点击异常--Message: unknown error: Element <a href="forum.php?mod=post&action=newthread&fid=2&special=1">...</a> is not clickable at point (45, 11). Other element would receive the click: <a href="javascript:;" onclick="setHomepage('http://127.0.0.1/');">...</a>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 10:24:33,903 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000001A233F8E940>页面中没有找到('css selector', 'div.z span input.px')元素
+2019-02-28 10:24:33,904 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:24:37,293 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 10:24:37,293 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:24:40,697 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 10:24:43,672 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 10:24:44,793 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 10:24:44,794 - BrowserEngine - INFO - 等待10秒
+2019-02-28 10:24:44,942 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 10:24:45,054 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 10:24:45,153 - BasePage - INFO - 点击成功
+2019-02-28 10:24:47,608 - BasePage - INFO - 点击成功
+2019-02-28 10:24:47,689 - BasePage - INFO - 悬停成功
+2019-02-28 10:24:48,317 - BasePage - INFO - 点击成功
+2019-02-28 10:24:51,496 - BasePage - INFO - 输入内容：大家的表情成功
+2019-02-28 10:24:51,603 - BasePage - INFO - 输入内容：笑成功
+2019-02-28 10:24:51,690 - BasePage - INFO - 输入内容：哭成功
+2019-02-28 10:24:51,793 - BasePage - INFO - 输入内容：酷成功
+2019-02-28 10:25:02,362 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x0000020E144CE908>页面中没有找到('css selector', 'iframe.pt ')元素
+2019-02-28 10:25:02,362 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:25:02,722 - BasePage - INFO - get_windows_img
+2019-02-28 10:25:02,892 - BasePage - INFO - 点击成功

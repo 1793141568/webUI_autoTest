@@ -1,0 +1,37 @@
+2019-02-27 16:56:07,145 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 16:56:07,146 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 16:56:09,722 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 16:56:12,119 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 16:56:13,243 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 16:56:13,244 - BrowserEngine - INFO - 等待10秒
+2019-02-27 16:56:13,372 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 16:56:13,480 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 16:56:13,573 - BasePage - INFO - 点击成功
+2019-02-27 16:56:17,118 - BasePage - INFO - 点击成功
+2019-02-27 16:56:19,217 - BasePage - INFO - 点击成功
+2019-02-27 16:56:21,500 - BasePage - INFO - 点击成功
+2019-02-27 16:56:23,969 - BasePage - INFO - 点击成功
+2019-02-27 16:56:25,118 - BasePage - INFO - 点击成功
+2019-02-27 16:56:36,671 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000254263A8CC0>页面中没有找到('name', 'admin_password')元素
+2019-02-27 16:56:36,671 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:56:37,036 - BasePage - INFO - get_windows_img
+2019-02-27 16:56:47,556 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x00000254263A8CC0>页面中没有找到('name', 'submit')元素
+2019-02-27 16:56:47,556 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 16:56:47,654 - BasePage - INFO - 点击成功
+2019-02-27 16:56:49,877 - BasePage - INFO - 点击成功
+2019-02-27 16:56:51,949 - BasePage - INFO - 清除成功
+2019-02-27 16:56:52,040 - BasePage - INFO - 输入内容：喜刷刷成功
+2019-02-27 16:56:52,318 - BasePage - INFO - 点击成功
+2019-02-27 16:56:57,342 - BasePage - INFO - 关闭页面
+2019-02-27 16:56:57,731 - BasePage - INFO - 点击成功
+2019-02-27 16:57:02,881 - BasePage - INFO - 输入内容：1793141568成功
+2019-02-27 16:57:02,999 - BasePage - INFO - 输入内容：zrt++19980928成功
+2019-02-27 16:57:03,081 - BasePage - INFO - 点击成功
+2019-02-27 16:57:06,346 - BasePage - INFO - 点击成功
+2019-02-27 16:57:06,662 - BasePage - INFO - 点击成功
+2019-02-27 16:57:06,780 - BasePage - INFO - 输入内容：用户贴成功
+2019-02-27 16:57:06,932 - BasePage - INFO - 输入内容：老魔王闲来无事来发帖，进来的都是精英成功
+2019-02-27 16:57:08,226 - BasePage - INFO - 点击成功
+2019-02-27 16:57:08,361 - BasePage - INFO - 输入内容：沙发糖果都是俺的成功
+2019-02-27 16:57:28,641 - BasePage - INFO - 点击成功
+2019-02-27 16:57:28,793 - BasePage - INFO - 点击成功

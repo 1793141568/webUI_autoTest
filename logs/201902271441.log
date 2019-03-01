@@ -1,0 +1,18 @@
+2019-02-27 14:41:07,217 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 14:41:07,218 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 14:41:09,843 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 14:41:12,334 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 14:41:13,458 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 14:41:13,459 - BrowserEngine - INFO - 等待10秒
+2019-02-27 14:41:13,588 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 14:41:13,701 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 14:41:13,791 - BasePage - INFO - 点击成功
+2019-02-27 14:41:17,278 - BasePage - INFO - 点击成功
+2019-02-27 14:41:29,785 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000001FEC97F0588>页面中没有找到('css selector', 'tbody#normalthread_37 td.o input')元素
+2019-02-27 14:41:29,786 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 14:41:42,306 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000001FEC97F0588>页面中没有找到('link text', '删除')元素
+2019-02-27 14:41:42,306 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 14:41:54,837 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000001FEC97F0588>页面中没有找到('css selector', '.pnc span')元素
+2019-02-27 14:41:54,837 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 14:41:55,985 - BasePage - INFO - 点击成功
+2019-02-27 14:41:56,404 - BasePage - INFO - get_windows_img

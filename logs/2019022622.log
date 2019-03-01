@@ -1,0 +1,16 @@
+2019-02-26 22:01:02,049 - BasePage - INFO - 点击成功
+2019-02-26 22:01:04,132 - BasePage - INFO - 点击成功
+2019-02-26 22:01:06,873 - BasePage - INFO - 点击成功
+2019-02-26 22:01:07,576 - BasePage - INFO - 点击成功
+2019-02-26 22:01:08,030 - BasePage - INFO - get_windows_img
+2019-02-26 22:02:20,792 - BasePage - INFO - 点击成功
+2019-02-26 22:03:45,559 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000001C45FF146A0>页面中没有找到('link text', '默认版块')元素
+2019-02-26 22:03:45,559 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 22:03:45,565 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000001C45FF146A0>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 22:04:20,562 - BasePage - INFO - 点击成功
+2019-02-26 22:04:45,241 - BasePage - INFO - 点击成功
+2019-02-26 22:06:40,239 - BasePage - INFO - 点击成功
+2019-02-26 22:06:47,650 - BasePage - INFO - 点击成功
+2019-02-26 22:06:50,160 - BasePage - INFO - 点击成功
+2019-02-26 22:06:50,689 - BasePage - INFO - 点击成功
+2019-02-26 22:06:51,059 - BasePage - INFO - get_windows_img

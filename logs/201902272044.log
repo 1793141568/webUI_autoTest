@@ -1,0 +1,12 @@
+2019-02-27 20:44:35,989 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 20:44:35,989 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 20:44:38,668 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 20:44:40,642 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 20:44:41,765 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 20:44:41,767 - BrowserEngine - INFO - 等待10秒
+2019-02-27 20:44:41,927 - BasePage - INFO - 输入内容：1793141568成功
+2019-02-27 20:44:42,101 - BasePage - INFO - 输入内容：zrt++19980928成功
+2019-02-27 20:44:42,192 - BasePage - INFO - 点击成功
+2019-02-27 20:44:44,350 - BasePage - INFO - 输入内容：haotest成功
+2019-02-27 20:44:44,464 - BasePage - INFO - 点击成功
+2019-02-27 20:44:47,871 - BasePage - INFO - 点击成功

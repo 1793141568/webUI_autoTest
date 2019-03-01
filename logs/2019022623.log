@@ -1,0 +1,4 @@
+2019-02-26 23:08:05,229 - BasePage - INFO - 点击成功
+2019-02-26 23:08:21,825 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000231CD344748>页面中没有找到('link text', '默认版块')元素
+2019-02-26 23:08:21,842 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 23:08:32,921 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000231CD344748>页面中没有找到('css selector', '.pbt input')元素

@@ -1,0 +1,27 @@
+2019-02-28 09:32:09,865 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 09:32:09,866 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:32:13,588 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 09:32:16,191 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 09:32:17,317 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 09:32:17,319 - BrowserEngine - INFO - 等待10秒
+2019-02-28 09:32:17,453 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 09:32:17,567 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 09:32:17,667 - BasePage - INFO - 点击成功
+2019-02-28 09:32:20,080 - BasePage - INFO - 点击成功
+2019-02-28 09:32:20,224 - BasePage - INFO - 悬停成功
+2019-02-28 09:32:20,810 - BasePage - INFO - 点击成功
+2019-02-28 09:32:35,077 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 09:32:35,077 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:32:39,147 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 09:32:41,469 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 09:32:42,594 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 09:32:42,595 - BrowserEngine - INFO - 等待10秒
+2019-02-28 09:32:42,734 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 09:32:42,846 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 09:32:42,948 - BasePage - INFO - 点击成功
+2019-02-28 09:32:45,363 - BasePage - INFO - 点击成功
+2019-02-28 09:32:45,504 - BasePage - INFO - 悬停成功
+2019-02-28 09:32:45,749 - BasePage - ERROR - 点击异常--Message: unknown error: Element <a href="forum.php?mod=post&action=newthread&fid=2&special=1">...</a> is not clickable at point (45, 11). Other element would receive the click: <a href="javascript:;" onclick="setHomepage('http://127.0.0.1/');">...</a>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

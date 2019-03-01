@@ -1,0 +1,20 @@
+2019-02-28 10:15:10,529 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 10:15:10,529 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:15:15,254 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 10:15:17,564 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 10:15:18,686 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 10:15:18,687 - BrowserEngine - INFO - 等待10秒
+2019-02-28 10:15:18,835 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 10:15:18,953 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 10:15:19,054 - BasePage - INFO - 点击成功
+2019-02-28 10:15:21,476 - BasePage - INFO - 点击成功
+2019-02-28 10:15:21,600 - BasePage - INFO - 悬停成功
+2019-02-28 10:15:22,320 - BasePage - INFO - 点击成功
+2019-02-28 10:15:25,598 - BasePage - INFO - 输入内容：大家的表情成功
+2019-02-28 10:15:25,776 - BasePage - INFO - 输入内容：笑成功
+2019-02-28 10:15:25,878 - BasePage - INFO - 输入内容：哭成功
+2019-02-28 10:15:25,990 - BasePage - INFO - 输入内容：酷成功
+2019-02-28 10:15:36,595 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x0000014716170FD0>页面中没有找到('css selector', 'iframe.pt ')元素
+2019-02-28 10:15:36,595 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:15:36,951 - BasePage - INFO - get_windows_img
+2019-02-28 10:15:37,104 - BasePage - INFO - 点击成功

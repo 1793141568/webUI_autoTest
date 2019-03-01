@@ -1,0 +1,6 @@
+2019-02-27 11:58:53,594 - BasePage - INFO - 你选择了Chrome浏览器
+2019-02-27 11:58:53,594 - BasePage - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 11:58:56,170 - BasePage - INFO - 启动谷歌浏览器
+2019-02-27 11:59:04,506 - BasePage - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 11:59:05,625 - BasePage - INFO - 窗口最大化
+2019-02-27 11:59:05,626 - BasePage - INFO - 等待10秒

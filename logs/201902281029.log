@@ -1,0 +1,43 @@
+2019-02-28 10:29:04,002 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 10:29:04,002 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:29:06,734 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 10:29:09,371 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 10:29:10,492 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 10:29:10,493 - BrowserEngine - INFO - 等待10秒
+2019-02-28 10:29:10,622 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 10:29:10,733 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 10:29:10,828 - BasePage - INFO - 点击成功
+2019-02-28 10:29:13,284 - BasePage - INFO - 点击成功
+2019-02-28 10:29:13,391 - BasePage - INFO - 悬停成功
+2019-02-28 10:29:13,616 - BasePage - ERROR - 点击异常--Message: unknown error: Element <a href="forum.php?mod=post&action=newthread&fid=2&special=1">...</a> is not clickable at point (45, 11). Other element would receive the click: <a href="javascript:;" onclick="setHomepage('http://127.0.0.1/');">...</a>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 10:29:18,632 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x0000012DC30BFCC0>页面中没有找到('css selector', 'div.z span input.px')元素
+2019-02-28 10:29:18,632 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:29:22,197 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 10:29:22,197 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:29:24,749 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 10:29:27,685 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 10:29:28,813 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 10:29:28,815 - BrowserEngine - INFO - 等待10秒
+2019-02-28 10:29:28,970 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 10:29:29,078 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 10:29:29,181 - BasePage - INFO - 点击成功
+2019-02-28 10:29:31,589 - BasePage - INFO - 点击成功
+2019-02-28 10:29:31,737 - BasePage - INFO - 悬停成功
+2019-02-28 10:29:31,974 - BasePage - INFO - 点击成功
+2019-02-28 10:29:45,484 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000002090E881908>页面中没有找到('css selector', 'div.z span input.px')元素
+2019-02-28 10:29:45,484 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:29:45,961 - BasePage - INFO - get_windows_img
+2019-02-28 10:29:56,499 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000002090E881908>页面中没有找到('css selector', '.mbm p:first-of-type input')元素
+2019-02-28 10:29:56,499 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:29:56,991 - BasePage - INFO - get_windows_img
+2019-02-28 10:30:07,504 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000002090E881908>页面中没有找到('css selector', '.mbm p:nth-child(2) input')元素
+2019-02-28 10:30:07,504 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:30:07,977 - BasePage - INFO - get_windows_img
+2019-02-28 10:30:18,509 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000002090E881908>页面中没有找到('css selector', '.mbm p:nth-child(3) input')元素
+2019-02-28 10:30:18,509 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:30:18,878 - BasePage - INFO - get_windows_img
+2019-02-28 10:30:29,404 - BasePage - ERROR - <pageobjects.forum4_homepage.HomePage object at 0x000002090E881908>页面中没有找到('css selector', '.mtm button#postsubmit span')元素
+2019-02-28 10:30:29,404 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'

@@ -1,0 +1,36 @@
+2019-02-27 16:22:30,574 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 16:22:30,574 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 16:22:33,041 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 16:22:36,343 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 16:22:37,466 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 16:22:37,468 - BrowserEngine - INFO - 等待10秒
+2019-02-27 16:22:37,615 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 16:22:37,735 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 16:22:37,843 - BasePage - INFO - 点击成功
+2019-02-27 16:22:41,795 - BasePage - INFO - 点击成功
+2019-02-27 16:22:43,908 - BasePage - INFO - 点击成功
+2019-02-27 16:22:46,230 - BasePage - INFO - 点击成功
+2019-02-27 16:22:48,793 - BasePage - INFO - 点击成功
+2019-02-27 16:22:49,940 - BasePage - INFO - 点击成功
+2019-02-27 16:23:01,519 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002364AD28B38>页面中没有找到('name', 'admin_password')元素
+2019-02-27 16:23:01,519 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:23:01,852 - BasePage - INFO - get_windows_img
+2019-02-27 16:23:12,414 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002364AD28B38>页面中没有找到('name', 'submit')元素
+2019-02-27 16:23:12,414 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 16:23:12,517 - BasePage - INFO - 点击成功
+2019-02-27 16:23:14,722 - BasePage - INFO - 点击成功
+2019-02-27 16:23:16,791 - BasePage - INFO - 清除成功
+2019-02-27 16:23:16,894 - BasePage - INFO - 输入内容：喜刷刷成功
+2019-02-27 16:23:17,161 - BasePage - INFO - 点击成功
+2019-02-27 16:23:22,187 - BasePage - INFO - 关闭页面
+2019-02-27 16:23:22,558 - BasePage - INFO - 点击成功
+2019-02-27 16:23:27,722 - BasePage - INFO - 输入内容：1793141568成功
+2019-02-27 16:23:27,843 - BasePage - INFO - 输入内容：zrt++19980928成功
+2019-02-27 16:23:27,932 - BasePage - INFO - 点击成功
+2019-02-27 16:23:41,460 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x000002364AD28B38>页面中没有找到('css selector', 'tbody tr.fl_row:nth-last-child(2) h2 a')元素
+2019-02-27 16:23:41,460 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-27 16:23:41,597 - BasePage - INFO - 输入内容：用户贴成功
+2019-02-27 16:23:41,783 - BasePage - INFO - 输入内容：老魔王闲来无事来发帖，进来的都是精英成功
+2019-02-27 16:23:43,081 - BasePage - INFO - 点击成功
+2019-02-27 16:23:43,216 - BasePage - INFO - 输入内容：沙发成功
+2019-02-27 16:23:43,313 - BasePage - INFO - 点击成功

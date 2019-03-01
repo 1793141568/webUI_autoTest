@@ -1,0 +1,19 @@
+2019-02-28 14:06:36,938 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 14:06:36,938 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 14:06:45,574 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 14:06:48,637 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 14:06:49,812 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 14:06:49,888 - BrowserEngine - INFO - 等待10秒
+2019-02-28 14:06:50,174 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 14:06:50,296 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 14:06:50,418 - BasePage - INFO - 点击成功
+2019-02-28 14:06:58,228 - BasePage - INFO - 点击成功
+2019-02-28 14:06:58,800 - BasePage - INFO - 输入内容：第一次发帖成功
+2019-02-28 14:06:59,098 - BasePage - INFO - 输入内容：好激动ssssssssssssssssss成功
+2019-02-28 14:07:31,376 - BasePage - INFO - 点击成功
+2019-02-28 14:07:41,934 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000001E8607C5C88>页面中没有找到('css selector', '.tedt .pt')元素
+2019-02-28 14:07:41,957 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-28 14:07:42,322 - BasePage - INFO - get_windows_img
+2019-02-28 14:07:52,833 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000001E8607C5C88>页面中没有找到('css selector', '.ptm .pn strong')元素
+2019-02-28 14:07:52,833 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-28 14:07:53,207 - BasePage - INFO - get_windows_img

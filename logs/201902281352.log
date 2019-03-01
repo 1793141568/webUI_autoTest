@@ -1,0 +1,15 @@
+2019-02-28 13:52:12,313 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 13:52:12,314 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 13:52:14,931 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 13:52:18,621 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 13:52:19,739 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 13:52:19,740 - BrowserEngine - INFO - 等待10秒
+2019-02-28 13:52:19,871 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 13:52:19,984 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 13:52:20,085 - BasePage - INFO - 点击成功
+2019-02-28 13:52:23,717 - BasePage - INFO - 点击成功
+2019-02-28 13:52:23,913 - BasePage - INFO - 输入内容：第一次发帖成功
+2019-02-28 13:52:24,178 - BasePage - INFO - 输入内容：好激动ssssssssssssssssss成功
+2019-02-28 13:52:30,692 - BasePage - INFO - 点击成功
+2019-02-28 13:52:30,693 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x0000021596D73DA0>页面中没有找到('css selector', '.tedt .pt')元素
+2019-02-28 13:52:30,693 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'

@@ -1,0 +1,25 @@
+2019-02-27 15:56:59,426 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-27 15:56:59,426 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:57:01,871 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-27 15:57:03,865 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 15:57:04,983 - BrowserEngine - INFO - 窗口最大化
+2019-02-27 15:57:04,984 - BrowserEngine - INFO - 等待10秒
+2019-02-27 15:57:05,105 - BasePage - INFO - 输入内容：admin成功
+2019-02-27 15:57:05,196 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 15:57:05,281 - BasePage - INFO - 点击成功
+2019-02-27 15:57:08,918 - BasePage - INFO - 点击成功
+2019-02-27 15:57:11,011 - BasePage - INFO - 点击成功
+2019-02-27 15:57:13,378 - BasePage - INFO - 点击成功
+2019-02-27 15:57:15,882 - BasePage - INFO - 点击成功
+2019-02-27 15:57:17,024 - BasePage - INFO - 点击成功
+2019-02-27 15:57:18,159 - BasePage - INFO - 输入内容：123456成功
+2019-02-27 15:57:49,488 - BasePage - INFO - 点击成功
+2019-02-27 15:57:49,804 - BasePage - INFO - 点击成功
+2019-02-27 15:57:52,022 - BasePage - INFO - 点击成功
+2019-02-27 15:57:54,090 - BasePage - INFO - 清除成功
+2019-02-27 15:57:54,185 - BasePage - INFO - 输入内容：喜刷刷成功
+2019-02-27 15:57:54,189 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x0000019A653C4AC8>页面中没有找到()元素
+2019-02-27 15:57:54,189 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:57:54,519 - BasePage - INFO - get_windows_img
+2019-02-27 15:57:59,551 - BasePage - INFO - 关闭页面
+2019-02-27 15:58:00,064 - BasePage - INFO - 点击成功

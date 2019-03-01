@@ -1,0 +1,16 @@
+2019-02-28 11:56:43,359 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-02-28 11:56:43,359 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 11:56:45,897 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-02-28 11:56:48,971 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 11:56:50,094 - BrowserEngine - INFO - 窗口最大化
+2019-02-28 11:56:50,095 - BrowserEngine - INFO - 等待10秒
+2019-02-28 11:56:50,234 - BasePage - INFO - 输入内容：admin成功
+2019-02-28 11:56:50,342 - BasePage - INFO - 输入内容：123456成功
+2019-02-28 11:56:50,440 - BasePage - INFO - 点击成功
+2019-02-28 11:56:53,828 - BasePage - INFO - 点击成功
+2019-02-28 11:56:54,022 - BasePage - INFO - 输入内容：第一次发帖成功
+2019-02-28 11:56:54,253 - BasePage - INFO - 输入内容：好激动ssssssssssssssssss成功
+2019-02-28 11:56:55,367 - BasePage - INFO - 点击成功
+2019-02-28 11:56:55,523 - BasePage - INFO - 输入内容：你好666啊成功
+2019-02-28 11:56:55,835 - BasePage - INFO - 点击成功
+2019-02-28 11:56:58,055 - BasePage - INFO - 关闭浏览器

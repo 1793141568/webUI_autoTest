@@ -1,0 +1,74 @@
+2019-02-26 20:03:12,650 - BasePage - INFO - 点击登录成功
+2019-02-26 20:04:27,724 - BasePage - INFO - 点击登录成功
+2019-02-26 20:18:28,591 - BasePage - INFO - 点击登录成功
+2019-02-26 20:18:29,279 - BasePage - INFO - get_windows_img
+2019-02-26 20:34:28,045 - BasePage - INFO - 点击登录成功
+2019-02-26 20:34:31,085 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 20:34:35,713 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 20:34:36,239 - BasePage - INFO - get_windows_img
+2019-02-26 20:45:54,902 - BasePage - INFO - 点击登录成功
+2019-02-26 20:45:56,841 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 20:45:58,474 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 20:45:59,270 - BasePage - INFO - 点击发表回复成功
+2019-02-26 20:45:59,697 - BasePage - INFO - get_windows_img
+2019-02-26 20:48:59,313 - BasePage - INFO - 点击成功
+2019-02-26 20:49:00,010 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 20:49:11,069 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000001E85FA73F28>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 20:51:06,900 - BasePage - INFO - 点击成功
+2019-02-26 20:51:07,530 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 20:51:18,583 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000284EC0E9FD0>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 20:51:18,583 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:51:18,957 - BasePage - INFO - get_windows_img
+2019-02-26 20:51:30,051 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000284EC0E9FD0>页面中没有找到('css selector', '.tedt .area .pt')元素
+2019-02-26 20:51:30,051 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:51:30,437 - BasePage - INFO - get_windows_img
+2019-02-26 20:51:41,490 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000284EC0E9FD0>页面中没有找到('css selector', '.ptm strong')元素
+2019-02-26 20:51:41,490 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 20:51:52,566 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000284EC0E9FD0>页面中没有找到('css selector', '.tedt .pt')元素
+2019-02-26 20:51:52,566 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:51:52,949 - BasePage - INFO - get_windows_img
+2019-02-26 20:52:04,025 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000284EC0E9FD0>页面中没有找到('css selector', '.ptm .pn strong')元素
+2019-02-26 20:52:04,025 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 20:52:04,373 - BasePage - INFO - get_windows_img
+2019-02-26 20:52:23,119 - BasePage - INFO - 点击成功
+2019-02-26 20:52:23,823 - BasePage - INFO - 点击成功
+2019-02-26 20:52:34,917 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000283AD903E10>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 20:52:34,918 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:52:35,316 - BasePage - INFO - get_windows_img
+2019-02-26 20:52:46,402 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000283AD903E10>页面中没有找到('css selector', '.tedt .area .pt')元素
+2019-02-26 20:52:46,402 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:52:46,785 - BasePage - INFO - get_windows_img
+2019-02-26 20:52:57,853 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000283AD903E10>页面中没有找到('css selector', '.ptm strong')元素
+2019-02-26 20:52:57,853 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 20:53:08,976 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000283AD903E10>页面中没有找到('css selector', '.tedt .pt')元素
+2019-02-26 20:53:08,976 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:53:09,440 - BasePage - INFO - get_windows_img
+2019-02-26 20:53:20,480 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000283AD903E10>页面中没有找到('css selector', '.ptm .pn strong')元素
+2019-02-26 20:53:20,480 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 20:53:20,951 - BasePage - INFO - get_windows_img
+2019-02-26 20:54:25,948 - BasePage - INFO - 点击成功
+2019-02-26 20:54:26,941 - BasePage - INFO - 点击成功
+2019-02-26 20:54:29,106 - BasePage - INFO - 点击成功
+2019-02-26 20:54:29,761 - BasePage - INFO - 点击成功
+2019-02-26 20:54:30,161 - BasePage - INFO - get_windows_img
+2019-02-26 20:59:27,851 - BasePage - INFO - 点击成功
+2019-02-26 20:59:28,520 - BasePage - INFO - 点击成功
+2019-02-26 20:59:39,592 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x00000209EA004F60>页面中没有找到('css selector', '.pbt input')元素

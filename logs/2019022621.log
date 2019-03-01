@@ -1,0 +1,65 @@
+2019-02-26 21:00:37,922 - BasePage - INFO - 点击成功
+2019-02-26 21:00:38,363 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 21:00:49,414 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002381420AFD0>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 21:00:49,415 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 21:00:49,764 - BasePage - INFO - get_windows_img
+2019-02-26 21:01:00,842 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002381420AFD0>页面中没有找到('css selector', '.tedt .area .pt')元素
+2019-02-26 21:01:00,843 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 21:01:01,233 - BasePage - INFO - get_windows_img
+2019-02-26 21:01:12,315 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002381420AFD0>页面中没有找到('css selector', '.ptm strong')元素
+2019-02-26 21:01:12,315 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 21:01:23,354 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002381420AFD0>页面中没有找到('css selector', '.tedt .pt')元素
+2019-02-26 21:01:23,354 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 21:01:23,693 - BasePage - INFO - get_windows_img
+2019-02-26 21:01:34,803 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002381420AFD0>页面中没有找到('css selector', '.ptm .pn strong')元素
+2019-02-26 21:01:34,804 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 21:01:35,100 - BasePage - INFO - get_windows_img
+2019-02-26 21:03:33,831 - BasePage - INFO - 点击成功
+2019-02-26 21:03:45,481 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 21:03:56,556 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002808BF19CC0>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 21:03:56,556 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 21:03:57,026 - BasePage - INFO - get_windows_img
+2019-02-26 21:04:08,121 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002808BF19CC0>页面中没有找到('css selector', '.tedt .area .pt')元素
+2019-02-26 21:04:08,121 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 21:04:08,567 - BasePage - INFO - get_windows_img
+2019-02-26 21:04:19,664 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002808BF19CC0>页面中没有找到('css selector', '.ptm strong')元素
+2019-02-26 21:04:19,664 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 21:04:30,758 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002808BF19CC0>页面中没有找到('css selector', '.tedt .pt')元素
+2019-02-26 21:04:30,758 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-02-26 21:04:31,257 - BasePage - INFO - get_windows_img
+2019-02-26 21:04:33,666 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000002808BF19CC0>页面中没有找到('css selector', '.ptm .pn strong')元素
+2019-02-26 21:04:33,666 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-02-26 21:04:51,807 - BasePage - INFO - 点击成功
+2019-02-26 21:04:52,544 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 21:05:03,645 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x0000028C63249FD0>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 21:05:36,052 - BasePage - INFO - 点击成功
+2019-02-26 21:05:36,763 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 21:05:42,485 - BasePage - INFO - 点击成功
+2019-02-26 21:05:43,043 - BasePage - INFO - 点击成功
+2019-02-26 21:05:43,439 - BasePage - INFO - get_windows_img
+2019-02-26 21:08:26,378 - BasePage - INFO - 点击成功
+2019-02-26 21:08:27,051 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 21:08:38,109 - BasePage - ERROR - <pageobjects.forum1_homepage.HomePage object at 0x000001C8CD5C55C0>页面中没有找到('css selector', '.pbt input')元素
+2019-02-26 21:10:51,301 - BasePage - INFO - 点击成功
+2019-02-26 21:10:52,057 - BasePage - ERROR - 点击异常--Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-26 21:11:01,341 - BasePage - INFO - 点击成功
+2019-02-26 21:11:01,997 - BasePage - INFO - 点击成功
+2019-02-26 21:11:02,397 - BasePage - INFO - get_windows_img
