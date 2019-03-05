@@ -25,6 +25,7 @@ class HomePage(BasePage):
         self.click(*self.home_page_searchsubmint_search_loc)
         time.sleep(2)
         self.driver.switch_to.window(self.driver.window_handles[1])
+    def haotest_tie(self):
         #进入haoster帖子
         self.click(*self.home_page_haoster_search_loc)
         self.driver.switch_to.window(self.driver.window_handles[2])

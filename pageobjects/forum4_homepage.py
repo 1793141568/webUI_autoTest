@@ -27,7 +27,7 @@ class HomePage(BasePage):
 
 
 
-    def search4(self,user,pwd,subject,biaoti1,biaoti2,biaoti3):
+    def search4(self,user,pwd):
         #用户登录
         self.sendkeys(user, *self.home_page_username_search_loc)
         self.sendkeys(pwd, *self.home_page_password_search_loc)
@@ -38,6 +38,7 @@ class HomePage(BasePage):
         self.xuanting(*self.home_page_fatie_search_loc)    #鼠标发帖处悬停
         self.click(*self.home_page_toupiao_search_loc)     #点击发起投票链接
         time.sleep(3)
+    def toupiaotie(self,subject,biaoti1,biaoti2,biaoti3):
         self.sendkeys(subject,*self.home_page_subject_search_loc)   #输入帖子标题
         self.sendkeys(biaoti1,*self.home_page_biaoti1_search_loc)
         self.sendkeys(biaoti2, *self.home_page_biaoti2_search_loc)     #输入投票选项
@@ -48,6 +49,7 @@ class HomePage(BasePage):
         self.click(*self.home_page_input_option1_search_loc)
         self.click(*self.home_page_submit_search_loc)       #点击投票
         time.sleep(2)
+    def shuchu(self):
         print(self.text(*self.home_page_xuanxiang1_search_loc), self.text(*self.home_page_bili1_search_loc))
         print(self.text(*self.home_page_xuanxiang2_search_loc), self.text(*self.home_page_bili2_search_loc))
         print(self.text(*self.home_page_xuanxiang3_search_loc), self.text(*self.home_page_bili3_search_loc))

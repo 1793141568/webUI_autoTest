@@ -1,0 +1,26 @@
+2019-03-03 11:07:32,897 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-03-03 11:07:32,898 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 11:07:35,829 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-03-03 11:07:38,173 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 11:07:39,306 - BrowserEngine - INFO - 窗口最大化
+2019-03-03 11:07:39,307 - BrowserEngine - INFO - 等待10秒
+2019-03-03 11:07:39,479 - BasePage - INFO - 输入内容：admin成功
+2019-03-03 11:07:39,612 - BasePage - INFO - 输入内容：123456成功
+2019-03-03 11:07:39,724 - BasePage - INFO - 点击成功
+2019-03-03 11:07:43,174 - BasePage - INFO - 点击成功
+2019-03-03 11:07:45,290 - BasePage - INFO - 点击成功
+2019-03-03 11:07:47,710 - BasePage - INFO - 点击成功
+2019-03-03 11:07:50,388 - BasePage - INFO - 点击成功
+2019-03-03 11:07:51,558 - BasePage - INFO - 点击成功
+2019-03-03 11:08:03,148 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x0000025A089B81D0>页面中没有找到('name', 'admin_password')元素
+2019-03-03 11:08:03,148 - BasePage - ERROR - 输入异常--'NoneType' object has no attribute 'send_keys'
+2019-03-03 11:08:03,490 - BasePage - INFO - get_windows_img
+2019-03-03 11:08:14,030 - BasePage - ERROR - <pageobjects.forum2_homepage.HomePage object at 0x0000025A089B81D0>页面中没有找到('name', 'submit')元素
+2019-03-03 11:08:14,030 - BasePage - ERROR - 点击异常--'NoneType' object has no attribute 'click'
+2019-03-03 11:08:14,147 - BasePage - INFO - 点击成功
+2019-03-03 11:08:16,396 - BasePage - INFO - 点击成功
+2019-03-03 11:08:18,477 - BasePage - INFO - 清除成功
+2019-03-03 11:08:18,596 - BasePage - INFO - 输入内容：喜刷刷成功
+2019-03-03 11:08:18,911 - BasePage - INFO - 点击成功
+2019-03-03 11:08:23,934 - BasePage - INFO - 关闭页面
+2019-03-03 11:08:24,281 - BasePage - INFO - 点击成功

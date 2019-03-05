@@ -1,13 +1,17 @@
 import unittest
 import  HTMLTestRunner
 import os
+import sys
+curPath=os.path.abspath(os.path.dirname(__file__))
+rootPath=os.path.split(curPath)[0]
+sys.path.append(rootPath)
 from testsuites .test_forum1 import Forum1
 from testsuites.test_forum2 import Forum2
 from testsuites.test_forum3 import Forum3
 from testsuites.test_forum4 import Forum4
 #设置报告文件保存路径
 cur_path=os.path.dirname(os.path.realpath(__file__))
-report_path=os.path.join(cur_path+"/..","report")
+report_path=os.path.join(cur_path+"/..","report"'')
 if not os.path.exists(report_path):os.mkdir(report_path)
 #构造测试套件
 suite=unittest.TestSuite()

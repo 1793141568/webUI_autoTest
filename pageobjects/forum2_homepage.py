@@ -31,7 +31,7 @@ class HomePage(BasePage):
 
 
 
-    def admin_search2(self,user,pwd,admin_password,mingcheng):
+    def admin_denglu(self,user,pwd):
         #管理员登录
         self.sendkeys(user, *self.home_page_username_search_loc)
         self.sendkeys(pwd, *self.home_page_password_search_loc)
@@ -39,7 +39,7 @@ class HomePage(BasePage):
         time.sleep(3)
         self.click(*self.home_page_moren_search_loc)
         time.sleep(2)
-
+    def admin_shanchu(self,admin_password):
 
         #删帖
         self.click(*self.home_page_input_search_loc)
@@ -57,7 +57,7 @@ class HomePage(BasePage):
         self.click(*self.home_page_forum_search_loc)
         self.driver.switch_to.frame(0)
         time.sleep(2)
-
+    def admin_xinbankuai(self,mingcheng):
         #添加新版块
         self.click(*self.home_page_add_search_loc)
         time.sleep(2)
@@ -69,7 +69,7 @@ class HomePage(BasePage):
         self.driver.switch_to.window(self.driver.window_handles[0])
         self.click(*self.home_page_admin_tuichu_search_loc)
         time.sleep(5)
-    def user_search2(self,user1,pwd1,subject,message,huifu_message):
+    def user_denglu(self,user1,pwd1):
         # 用户登录
         self.sendkeys(user1, *self.home_page_username_search_loc)
         self.sendkeys(pwd1, *self.home_page_password_search_loc)
@@ -79,9 +79,11 @@ class HomePage(BasePage):
         self.click(*self.home_page_shouye_search_loc)
         #进入新版块 发表帖子  回复帖子
         self.click(*self.home_page_xinbankuai_search_loc)
+    def user_fabiao(self,subject,message):
         self.sendkeys(subject, *self.home_page_subject_search_loc)
         self.sendkeys(message, *self.home_page_message_search_loc)
         self.click(*self.home_page_fabiao_search_loc)
+    def user_huifu(self,huifu_message):
         self.sendkeys(huifu_message, *self.home_page_huifu_message_search_loc)
         time.sleep(20)
         self.click(*self.home_page_huifu_search_loc)

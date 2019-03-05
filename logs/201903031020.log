@@ -1,0 +1,6 @@
+2019-03-03 10:20:37,839 - BrowserEngine - INFO - 你选择了Chrome浏览器
+2019-03-03 10:20:37,839 - BrowserEngine - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 10:20:41,226 - BrowserEngine - INFO - 启动谷歌浏览器
+2019-03-03 10:20:43,429 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 10:20:44,556 - BrowserEngine - INFO - 窗口最大化
+2019-03-03 10:20:44,558 - BrowserEngine - INFO - 等待10秒
